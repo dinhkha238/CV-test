@@ -1,0 +1,35 @@
+.edu-inf{
+    font-size: 20px;
+    /* color: #0a84ff; */
+    /* font-weight: 700; */
+}
+.xam{
+    color: #999;
+}
+.flex-2{
+    flex: 2;
+}
+.flex-1{
+    flex: 1;
+}
+.padding-top{
+    padding-top:10px;
+}
+.size-1{
+    height: 240px;
+}
+.size-2{
+    height: 290px;
+}
+.size-3{
+    height: 510px;
+}
+.size-4{
+    height: 230px;
+}
+.size-5{
+    height: 180px;
+}
+.size-6{
+    height: 390px;
+}
